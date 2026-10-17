@@ -1,0 +1,6 @@
+{
+  "name": "스페이스 바운스 핀볼 (Space Bounce Pinball)",
+  "description": "추억의 윈도우 XP 3D 핀볼과 전설의 공튀기기 게임이 결합된 하이브리드 아케이드 물리 게임. 실시간 멀티 대전, 일일 미션, 시즌 랭킹, 테마 커스터마이징 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
